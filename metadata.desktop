@@ -1,0 +1,14 @@
+[SddmGreeterTheme]
+Name=sddm-onelock-theme
+Description=sddm-onelock-theme
+Author=onelock
+Website=https://github.com/onelocked/sddm-astronaut-theme
+License=GPL-3.0-or-later
+Type=sddm-theme
+Version=1
+ConfigFile=Themes/onelock.conf
+MainScript=Main.qml
+TranslationsDirectory=translations
+Theme-Id=sddm-onelock-theme
+Theme-API=2.0
+QtVersion=6
